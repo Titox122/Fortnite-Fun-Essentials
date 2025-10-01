@@ -3,6 +3,8 @@ Fortnite Fun Essentials is a Open Source Fortnite OT 6.5 source code recreation 
 
 # NOT RELEASE DATE YET
 
+# ACLARATIONS
+This is NOT a decompilation of the Online Test 6.5. It is a recreation using the SDK and other tools to rebuild the game. DO NOT expect a 1:1 recreation — this is completely made for experimenting with the game’s systems.
 
 # LEGAL CREDITS
 Portions of the materials used are trademarks and/or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic.
